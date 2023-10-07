@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Cavalcante de Oliveira,
 
-- 👀 I’m interested in I'm interested in exploring new technologies and software development methodologies.
+- 👀 I'm interested in exploring new technologies and software development methodologies.
      I enjoy staying up-to-date with the latest trends in software engineering and experimenting with new tools and frameworks.
 - 🌱 I’m currently learning I am currently focusing on improving my programming skills, particularly in languages such as Java and JavaScript. Additionally,
      I am exploring the world of cloud computing and machine learning.

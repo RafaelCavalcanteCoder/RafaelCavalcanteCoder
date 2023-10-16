@@ -4,7 +4,7 @@
 
 🚀 Trabalhando com Experiência em Qualidade de Software, Testes Manuais e Automatizados.
 
-💼 Atualmente, utilizo ferramentas poderosas como JAVA, Selenium e JUnit para garantir a qualidade de software.
+💼 Atualmente, utilizo ferramentas poderosas como JAVA, JavaSript, Cypress, Selenium e Postman para garantir a qualidade de software.
 
 🔍 Meu objetivo é buscar continuamente a excelência na qualidade do software, buscando soluções inovadoras e práticas eficazes de teste.
 

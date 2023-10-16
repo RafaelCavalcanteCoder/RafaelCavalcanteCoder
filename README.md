@@ -29,3 +29,6 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)

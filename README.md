@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h3 style="color: #FFA500;"> align="center">A melhor ferramenta de tecnologia é aquela que você sabe usar. </h1>
+    <h3 style="color: #FFA500;" align="center">A melhor ferramenta de tecnologia é aquela que você sabe usar. </h3>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </div>

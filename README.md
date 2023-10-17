@@ -17,13 +17,13 @@
     
   
   <h4 align="center">Redes Sociais</h4>
-    <a href = "mailto: work.rco.cavalcante@gmail.com">
+    <a href = "mailto: rco.cavalcante@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/rafael-qa/">
       <img width="25" src="linkedin.svg">
     </a>
-   <a href = "https://www.instagram.com/devparadev/">
+   <a href = "https://www.instagram.com/rafacavalks/">
       <img width="25" src="instagram.png">
     </a>
 </div>

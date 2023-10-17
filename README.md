@@ -16,7 +16,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h4 align="center">Redes Sociais</h4>
     <a href = "mailto: work.rco.cavalcante@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
@@ -29,4 +29,4 @@
 </div>
 
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RafaelCavalcanteCoder/RafaelCavalcanteCoder/blob/output/github-contribution-grid-snake.svg)

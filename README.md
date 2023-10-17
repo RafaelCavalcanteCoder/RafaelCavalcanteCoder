@@ -1,4 +1,4 @@
-## Faaaala dev, Rafa Aqui!
+<h2 style="color: #FFA500">Faaaala dev, Rafa Aqui!</h2>
 
 <div>
   
@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">A melhor ferramenta de tecnologia é aquela que você sabe usar. <3</h1>
+    <h3 style="color: #FFA500;"> align="center">A melhor ferramenta de tecnologia é aquela que você sabe usar. </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </div>

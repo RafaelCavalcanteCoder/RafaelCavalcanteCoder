@@ -24,7 +24,7 @@
       <img width="25" src="linkedin.svg">
     </a>
      <a href = "https://www.instagram.com/rafacavalks/">
-      <img width="25" src="instagram.png">
+      <img width="50" src="instagram.png">
     </a>
 </div>
 
